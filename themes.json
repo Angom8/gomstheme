@@ -39,11 +39,11 @@
     "author" : "Angom8", 
     "name" : "GreenStone", 
     "keyWords" : "vert,green", 
-    "version" : "0.2.0", 
+    "version" : "1.0.0", 
     "dofusVersion" : "2.37", 
     "description" : "Le thème de base adouci et vert (avec quelques changements)", 
     "url" : "https://github.com/Angom8/gomstheme/raw/master/greenstone.zip", 
-    "previewUrl" : "http://ordre2vlad.fr/dofusthemes/preview/Wause.png", 
+    "previewUrl" : "https://raw.githubusercontent.com/Angom8/gomstheme/master/greenstone.PNG", 
     "creationDate" : "26/09/2016", 
     "modificationDate" : "12/10/2016"  
   },
