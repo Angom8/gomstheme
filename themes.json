@@ -5,7 +5,7 @@
     "keyWords": "blue,bleu",
     "version": "0.2.0",
     "dofusVersion": "2.37",
-    "description": "Le thème de base non adouci et bleu (avec quelques changements). Peut piquer les yeux",
+    "description": "Le thème de base non adouci et bleu, prototype (avec quelques changements). Peut piquer les yeux et bugger !",
     "url": "https://github.com/Angom8/gomstheme/raw/master/eliostone.zip",
     "previewUrl": "https://raw.githubusercontent.com/Angom8/gomstheme/master/eliostonepreview.jpg",
     "creationDate": "20/09/2016",
@@ -54,8 +54,8 @@
     "version" : "1.0.0", 
     "dofusVersion" : "2.37", 
     "description" : "Le thème de base adouci et gris (avec quelques changements)", 
-    "url" : "http://ordre2vlad.fr/dofusthemes/Wosissuwe.zip", 
-    "previewUrl" : "http://ordre2vlad.fr/dofusthemes/preview/Wause.png", 
+    "url" : "https://github.com/Angom8/gomstheme/raw/master/greystone.zip", 
+    "previewUrl" : "https://github.com/Angom8/gomstheme/raw/master/greystone.PNG", 
     "creationDate" : "23/09/2016", 
     "modificationDate" : "12/10/2016"  
   }
