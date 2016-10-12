@@ -49,14 +49,14 @@
   },
   { 
     "author" : "Angom8", 
-    "name" : "SoftStone", 
-    "keyWords" : "vert,green", 
-    "version" : "0.0.1", 
+    "name" : "GreyStone", 
+    "keyWords" : "gris,grey,gray", 
+    "version" : "1.0.0", 
     "dofusVersion" : "2.37", 
-    "description" : "Le thème de base adouci (avec quelques changements)", 
+    "description" : "Le thème de base adouci et gris (avec quelques changements)", 
     "url" : "http://ordre2vlad.fr/dofusthemes/Wosissuwe.zip", 
     "previewUrl" : "http://ordre2vlad.fr/dofusthemes/preview/Wause.png", 
-    "creationDate" : "20/09/2016", 
+    "creationDate" : "23/09/2016", 
     "modificationDate" : "12/10/2016"  
   }
 ]
