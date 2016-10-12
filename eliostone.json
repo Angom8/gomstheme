@@ -13,15 +13,15 @@
   }
   { 
     "author" : "Angom8", 
-     "name" : "Redstone", 
-     "keyWords" : "red,rouge", 
-     "version" : "0.2.0", 
-     "dofusVersion" : "2.37", 
-     "description" : "Le thème de base adouci et rouge (avec quelques changements)", 
-     "url" : "http://ordre2vlad.fr/dofusthemes/Wosissuwe.zip", 
-     "previewUrl" : "http://ordre2vlad.fr/dofusthemes/preview/Wause.png", 
-     "creationDate" : "22/09/2016", 
-     "modificationDate" : "12/10/2016"  
+    "name" : "Redstone", 
+    "keyWords" : "red,rouge", 
+    "version" : "0.2.0", 
+    "dofusVersion" : "2.37", 
+    "description" : "Le thème de base adouci et rouge (avec quelques changements)", 
+    "url" : "http://ordre2vlad.fr/dofusthemes/Wosissuwe.zip", 
+    "previewUrl" : "http://ordre2vlad.fr/dofusthemes/preview/Wause.png", 
+    "creationDate" : "22/09/2016", 
+    "modificationDate" : "12/10/2016"  
   },
   { 
 	"author" : "Angom8", 
