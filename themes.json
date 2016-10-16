@@ -1,16 +1,4 @@
-﻿[
-  {
-    "author": "Angom8",
-    "name": "Eliostone",
-    "keyWords": "blue,bleu",
-    "version": "0.2.0",
-    "dofusVersion": "2.37",
-    "description": "Le thème de base non adouci et bleu, prototype (avec quelques changements). Peut piquer les yeux et bugger !",
-    "url": "https://github.com/Angom8/gomstheme/raw/master/eliostone.zip",
-    "previewUrl": "https://raw.githubusercontent.com/Angom8/gomstheme/master/eliostonepreview.jpg",
-    "creationDate": "20/09/2016",
-    "modificationDate": "12/10/2016"
-  },
+[
   { 
     "author" : "Angom8", 
     "name" : "Redstone", 
@@ -70,5 +58,17 @@
     "previewUrl" : "https://github.com/Angom8/gomstheme/raw/master/greystone.PNG", 
     "creationDate" : "14/09/2016", 
     "modificationDate" : "15/10/2016"  
+  }
+  { 
+    "author" : "Angom8", 
+    "name" : "ElioStone v2", 
+    "keyWords" : "blue,bleu", 
+    "version" : "1.0.0", 
+    "dofusVersion" : "2.37", 
+    "description" : "Le thème de base adouci et bleu eliotrope (avec quelques changements)", 
+    "url" : "https://github.com/Angom8/gomstheme/raw/master/eliostone%20v2.zip", 
+    "previewUrl" : "https://raw.githubusercontent.com/Angom8/gomstheme/master/eliostonev2.PNG", 
+    "creationDate" : "16/09/2016", 
+    "modificationDate" : "16/10/2016"  
   }
 ]
