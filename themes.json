@@ -1,18 +1,6 @@
 [
   { 
     "author" : "Angom8", 
-    "name" : "Redstone", 
-    "keyWords" : "red,rouge", 
-    "version" : "1.0.0", 
-    "dofusVersion" : "2.37", 
-    "description" : "Le thème de base adouci et rouge (avec quelques changements)", 
-    "url" : "https://github.com/Angom8/gomstheme/raw/master/redstone.zip", 
-    "previewUrl" : "https://github.com/Angom8/gomstheme/raw/master/redstone.PNG", 
-    "creationDate" : "22/09/2016", 
-    "modificationDate" : "18/10/2016"  
-  },
-  { 
-    "author" : "Angom8", 
     "name" : "ParmaStone", 
     "keyWords" : "parma,parme", 
     "version" : "1.0.0", 
