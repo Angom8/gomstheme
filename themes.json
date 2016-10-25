@@ -13,30 +13,6 @@
   },
   { 
     "author" : "Angom8", 
-    "name" : "YellowStone", 
-    "keyWords" : "jaune,yellow", 
-    "version" : "1.0.0", 
-    "dofusVersion" : "2.37", 
-    "description" : "Le thème de base adouci et jaune (avec quelques changements)", 
-    "url" : "https://github.com/Angom8/gomstheme/raw/master/yellowstone.zip", 
-    "previewUrl" : "https://github.com/Angom8/gomstheme/raw/master/yellowstone.PNG", 
-    "creationDate" : "24/09/2016", 
-    "modificationDate" : "12/10/2016"  
-  },
-  { 
-    "author" : "Angom8", 
-    "name" : "GreenStone", 
-    "keyWords" : "vert,green", 
-    "version" : "1.0.0", 
-    "dofusVersion" : "2.37", 
-    "description" : "Le thème de base adouci et vert (avec quelques changements)", 
-    "url" : "https://github.com/Angom8/gomstheme/raw/master/greenstone.zip", 
-    "previewUrl" : "https://raw.githubusercontent.com/Angom8/gomstheme/master/greenstone.PNG", 
-    "creationDate" : "26/09/2016", 
-    "modificationDate" : "12/10/2016"  
-  },
-  { 
-    "author" : "Angom8", 
     "name" : "ParmaStone", 
     "keyWords" : "parma,parme", 
     "version" : "1.0.0", 
@@ -46,18 +22,6 @@
     "previewUrl" : "https://raw.githubusercontent.com/Angom8/gomstheme/master/parmastone.PNG", 
     "creationDate" : "14/09/2016", 
     "modificationDate" : "14/10/2016"  
-  },
-  { 
-    "author" : "Angom8", 
-    "name" : "GreyStone", 
-    "keyWords" : "gris,grey,gray", 
-    "version" : "1.0.1", 
-    "dofusVersion" : "2.37", 
-    "description" : "Le thème de base adouci et gris (avec quelques changements)", 
-    "url" : "https://github.com/Angom8/gomstheme/raw/master/greystone.zip", 
-    "previewUrl" : "https://github.com/Angom8/gomstheme/raw/master/greystone.PNG", 
-    "creationDate" : "14/09/2016", 
-    "modificationDate" : "15/10/2016"  
   },
   { 
     "author" : "Angom8", 
